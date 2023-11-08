@@ -12,7 +12,7 @@ A lightweight and flexible Node.js client for AWS DynamoDB, providing a simplifi
 ## Installation
 
 ```bash
-npm install dynamodb-helper
+npm install dynamodb-access-helper
 ```
 
 ## Usage

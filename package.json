@@ -1,5 +1,5 @@
 {
-  "name": "dynamodb-helper",
+  "name": "dynamodb-access-helper",
   "version": "1.0.0",
   "description": "Utility library for DocumentClient",
   "main": "index.js",
