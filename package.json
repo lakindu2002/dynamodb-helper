@@ -1,0 +1,27 @@
+{
+  "name": "dynamodb-helper",
+  "version": "0.0.1",
+  "description": "Utility library for DocumentClient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakindu2002/dynamodb-helper.git"
+  },
+  "keywords": [
+    "dynamodb",
+    "documentclient",
+    "aws"
+  ],
+  "author": "lakindu hewawasam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakindu2002/dynamodb-helper/issues"
+  },
+  "homepage": "https://github.com/lakindu2002/dynamodb-helper#readme",
+  "peerDependencies": {
+    "aws-sdk": "^2.1488.0"
+  }
+}
